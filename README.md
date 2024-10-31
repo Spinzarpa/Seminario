@@ -56,6 +56,4 @@ Para iniciar el proyecto en local:
 npm run dev
 ```
 
-El sitio estará disponible en `http://localhost:3000`.
-
 ---
